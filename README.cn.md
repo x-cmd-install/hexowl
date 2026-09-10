@@ -4,13 +4,22 @@
 
 Lightweight, flexible programmer's calculator with variables and functions
 
-![hexowl](https://repo.x-cmd.io/hexowl.svg)
+![hexowl](https://repo.x-cmd.io/hexowl.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install hexowl
 ```
+
+## 代码规模
+
+合计: **2,547** 行代码（覆盖前 5 种语言、共 **27** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 2,547 | 182 | 427 | 26 |
+| Markdown | 0 | 157 | 42 | 1 |
 
 ## 源代码
 
@@ -23,7 +32,6 @@ x install hexowl
 - **最新版本**: `v1.5.1` (2024-12-18)
 - **最近提交**: 2024-12-18
 - **Release 含资产**: 4 个
-- **发布时间**: 2024-12-18T16:11:17Z
 
 ## 流行度
 
@@ -38,17 +46,24 @@ x install hexowl
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 2 | 0 | 0 | 0 | 0 | 12 |
 
-## 代码规模
+## Release 资产
 
-合计: **2,547** 行代码（覆盖前 5 种语言、共 **27** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hexowl](https://github.com/dece2183/hexowl/releases/download/v1.5.1/hexowl) | 3.0 MiB | `other` |
+| [hexowl.deb](https://github.com/dece2183/hexowl/releases/download/v1.5.1/hexowl.deb) | 1.6 MiB | `other` |
+| [hexowl.exe](https://github.com/dece2183/hexowl/releases/download/v1.5.1/hexowl.exe) | 5.6 MiB | `other` |
+| [hexowl.pkg.tar.zst](https://github.com/dece2183/hexowl/releases/download/v1.5.1/hexowl.pkg.tar.zst) | 967.4 KiB | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 2,547 | 182 | 427 | 26 |
-| Markdown | 0 | 157 | 42 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/hexowl) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -59,4 +74,4 @@ hexowl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:32:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:36:47Z._
