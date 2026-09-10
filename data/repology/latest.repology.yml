@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: hexowl
+  binname: hexowl
+  visiblename: hexowl
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: hexowl is a Lightweight and flexible programmer's calculator with user variables and functions support written in Go.
+  maintainers:
+    - dece2183@aur
+  licenses:
+    - GPL3
+- repo: freebsd
+  srcname: math/hexowl
+  binname: hexowl
+  visiblename: math/hexowl
+  version: 1.5.1
+  origversion: 1.5.1_17
+  status: newest
+  summary: Lightweight programmer's calculator with variables and functions
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - math
