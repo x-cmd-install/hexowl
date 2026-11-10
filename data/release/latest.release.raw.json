@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3184872,
       "digest": null,
-      "download_count": 123,
+      "download_count": 125,
       "created_at": "2024-12-18T16:07:55Z",
       "updated_at": "2024-12-18T16:11:16Z",
       "browser_download_url": "https://github.com/DECE2183/hexowl/releases/download/v1.5.1/hexowl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5908198,
       "digest": null,
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2024-12-18T18:45:42Z",
       "updated_at": "2024-12-18T18:45:45Z",
       "browser_download_url": "https://github.com/DECE2183/hexowl/releases/download/v1.5.1/hexowl.exe"
